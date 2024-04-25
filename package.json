@@ -1,0 +1,23 @@
+{
+  "name": "hexlet-autotests",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raga73/hexlet-autotests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raga73/hexlet-autotests/issues"
+  },
+  "homepage": "https://github.com/raga73/hexlet-autotests#readme"
+}
